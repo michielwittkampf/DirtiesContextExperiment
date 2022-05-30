@@ -1,4 +1,4 @@
-package com.baeldung.dirtiescontext;
+package com.example.dirtiescontext;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.MethodOrderer;

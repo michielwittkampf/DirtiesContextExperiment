@@ -1,4 +1,4 @@
-package com.baeldung.dirtiescontext;
+package com.example.dirtiescontext;
 
 import java.util.HashSet;
 import java.util.Set;
